@@ -1,6 +1,6 @@
 ---
 name: imagen
-description: |
+description:   Gera imagens a partir de prompts de texto usando o modelo de geração de imagens do Google Gemini, salvando automaticamente o arquivo PNG no projeto para uso em frontend, documentação ou assets visuais.
 source: "https://github.com/sanjay3290/ai-skills/tree/main/skills/imagen"
 risk: safe
 ---
